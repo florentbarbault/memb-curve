@@ -5,6 +5,7 @@
 Proposition d'une méthode :
 
 Courbure d'une membrane avec trois points qui représentent des atomes de phosphore :
+
 $$A \space (x_A;y_A;z_A), \space B \space (x_B;y_B;z_B)\space et\space C \space (x_C;y_C;z_C)$$
 * La membrane est dans le plan $xOy$
 * $A$, $B$ et $C$ sont à moins de $5 \mathring{A}$ de la protéine. On estime qu'ils sont donc  interaction avec la surface.
