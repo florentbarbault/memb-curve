@@ -23,8 +23,7 @@ Using the Heron's method, we can directly obtained the radius of the contact sph
 
 Where p is defined by:
 
-
-<p align="center"><img src="images/p-value.png" alt="" width="300" ></p>
+<p align="center"><img src="images/p-value.png" alt="" width="100" ></p>
 
 
 
