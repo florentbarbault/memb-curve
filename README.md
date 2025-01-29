@@ -41,3 +41,4 @@ You have to follow the following several steps:
 5. Using software such as gnuplot or jupyter, we can plot the radius as a function of the trajectory. This allows you to see its variations.
 
 
+<p align="center"><img src="images/radius_vs_time.png" alt="" width="300" ></p>
