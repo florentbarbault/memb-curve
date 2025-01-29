@@ -19,11 +19,11 @@ With the three points, the two other distances are then computed:
 
 Using the Heron's method, we can directly obtained the radius of the contact sphere R which pass through the A, B and C points using the following formula:
 
-<p align="center"><img src="images/radiusR.png" alt="" width="300" ></p>
+<p align="center"><img src="images/radiusR.png" alt="" width="250" ></p>
 
 Where p is defined by:
 
-<p align="center"><img src="images/p-value.png" alt="" width="100" ></p>
+<p align="center"><img src="images/p-value.png" alt="" width="200" ></p>
 
 
 
