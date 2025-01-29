@@ -1,8 +1,10 @@
 # memb-curve
 
-## Courbure de membrane
+## Theory
 
-Proposition d'une méthode :
+The aim of this programme is to determine a value for the local curvature of a membrane induced by the adsorption of an agent (protein, DNA, molecule, molecular aggregate, etc.) on its surface.
+
+Three points $A,B,C$ are considered:
 
 Courbure d'une membrane avec trois points qui représentent des atomes de phosphore :
 
@@ -24,3 +26,6 @@ On détermine la surface $S$ du triangle par la formule de Héron:
 $$S=\sqrt{p(p-BC)(p-AC)(p-AB)}$$
 On calcule alors le rayon du cercle $R$ circonscrit à ce triangle $ABC$ par la formule:
 $$R=\frac{BC\times AC\times AB}{4S}$$
+
+## Method
+
