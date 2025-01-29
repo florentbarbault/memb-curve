@@ -28,3 +28,17 @@ Using the inscribed angle and the Heron's method, we can directly obtained the r
 
 ## Method
 
+You have to follow the following several steps:
+
+1. From a trajectory, you obtain a file in pdb format containing the phosphorus atoms (or other) of interest. For example, using VMD, the simple command: ‘all name P31 within 5 of protein’ allows you to select the atoms and then save them (‘save coordinates’ function in VMD).
+
+2. Save the file as ‘phosphorus.pdb’ (by default, you can easily change this name in the python soft).
+
+3. Run the program:
+python memb-curve.py
+
+4. Execution gives you the radius and its standard deviation.
+
+5. Using software such as gnuplot or jupyter, we can plot the radius as a function of the trajectory. This allows you to see its variations.
+
+Translated with DeepL.com (free version)
