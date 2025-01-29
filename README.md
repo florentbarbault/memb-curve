@@ -34,11 +34,10 @@ You have to follow the following several steps:
 
 2. Save the file as ‘phosphorus.pdb’ (by default, you can easily change this name in the python soft).
 
-3. Run the program:
-python memb-curve.py
+3. Run the program: ```python memb-curve.py```
 
 4. Execution gives you the radius and its standard deviation.
 
 5. Using software such as gnuplot or jupyter, we can plot the radius as a function of the trajectory. This allows you to see its variations.
 
-Translated with DeepL.com (free version)
+
