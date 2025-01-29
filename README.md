@@ -13,6 +13,19 @@ The program identifies point B as the one that is the most deeply embedded in th
 
 <p align="center"><img src="images/distAC.png" alt="" width="300" ></p>
 
+With the three points, the two other distances are then computed:
+
+<p align="center"><img src="images/distAB-BC.png" alt="" width="300" ></p>
+
+Using the Heron's method, we can directly obtained the radius of the contact sphere R which pass through the A, B and C points using the following formula:
+
+<p align="center"><img src="images/radiusR.png" alt="" width="300" ></p>
+
+Where p is defined by:
+
+
+<p align="center"><img src="images/p-value.png" alt="" width="300" ></p>
+
 
 
 ## Method
